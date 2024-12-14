@@ -1,5 +1,5 @@
 //Program to demonstrate ArrayList
-package com.tns.ifet.day10.list;
+package com.tns.ifet.day10.lists;
 
 import java.util.ArrayList;
 import java.util.Collections;

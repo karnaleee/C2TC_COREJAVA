@@ -1,5 +1,5 @@
 //Program to demonstrate LinkedList class
-package com.tns.ifet.day10.list;
+package com.tns.ifet.day10.lists;
 
 import java.util.Collections;
 import java.util.LinkedList;
